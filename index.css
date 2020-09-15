@@ -11,8 +11,14 @@ body {
     background-color: cornflowerblue;
 }
 
-body, .quote-input {
+.quote-display {
+    font-family: 'Helvetica';
+    font-size: 2rem;
+}
+
+.quote-input {
     font-family: 'Courier';
+    font-size: 2em;
 }
 
 .container {
