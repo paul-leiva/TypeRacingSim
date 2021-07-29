@@ -1,8 +1,6 @@
 # TypeRacingSim
  A type racing game to boost your WPM
 
-This app was originally attempted to be deployed via [Heroku](http://google.com), however it was not working when it tried to fetch quotes for an unknown reason. Thus, it can only be played on your local machine at this time.
-
 ## How to play:
 1. Download this entire repository to your local machine.
 2. Place the repository in a folder if it does not default to one.
